@@ -54,3 +54,4 @@ def find_first_last_digit(inp):
             sum_num = find_first_last_digit(input_data)
 
         print(sum_num)
+#ddgjgcrssevensix37twooneightgt and 23eightptpspjtbnninesixfivedhfnmqjd
